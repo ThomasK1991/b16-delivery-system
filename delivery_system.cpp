@@ -67,7 +67,7 @@ bool operator==(Node &lhs, Node &rhs) {
 	return lhs.GetId() == rhs.GetId();
 }
 
-//pool
+//Go
 // Implementation of Graph class
 
 /**
